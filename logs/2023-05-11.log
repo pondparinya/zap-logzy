@@ -1,0 +1,1 @@
+{"level":"error","ts":1683824087.290262,"caller":"zap-logzy/main.go:22","msg":"Some error","error":"error","key":"value","stacktrace":"main.main\n\t/Users/pondparinya/go/src/github.com/pondparinya/zap-logzy/main.go:22\nruntime.main\n\t/usr/local/Cellar/go/1.19.2/libexec/src/runtime/proc.go:250"}
